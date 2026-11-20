@@ -18,3 +18,18 @@
 - 多种乐器家具，支持录制乐谱与合奏
 
 作者：Warmpix ｜ 版权所有 All rights reserved
+
+## 🏡 暖像素 WarmPix 服务器
+
+本模组正在 **暖像素 WarmPix** 服务器上使用，欢迎来服里实际体验。
+
+暖像素 WarmPix 是新开的 Java 26.3 NeoForge 模组生存服，公益服无付费内容，多线、无白名单，正版/离线账号都能进。新服招人开荒，长期稳定运营、永久不跑路。
+
+- 服务器地址：`minecraft.warmpix.com`
+- 官网：https://warmpix.com/
+- 宣传片：https://www.bilibili.com/video/BV1NhWh6dEcu/
+- QQ 群：**705556278**
+
+<img src="qq-group-qr.png" alt="WarmPix QQ 群 705556278 二维码" width="220">
+
+扫码或搜索群号 705556278 加入 QQ 群。
