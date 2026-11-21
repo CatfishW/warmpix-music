@@ -7,6 +7,16 @@
 - 客户端与服务端都需要安装，无其他前置
 - 语言：简体中文 / English
 
+## 截图 Screenshots
+
+![暖像素乐坊封面与十二张原创唱片](docs/screenshots/01_cover.png)
+
+![十二张原创唱片封面](docs/screenshots/02_records.png)
+
+![合成零件与小物件：钢弦、共鸣板、琴键组等](docs/screenshots/03_parts.png)
+
+![十八种可演奏乐器与听音室家具](docs/screenshots/04_instruments.png)
+
 ## 下载
 
 请到 [Releases](../../releases) 页面下载 jar。
